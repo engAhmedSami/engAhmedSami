@@ -61,13 +61,14 @@
   <a href="mailto:ii.ahmedsami0@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
-  <a href="https://wa.me/YOURNUMBER" target="_blank">
+  <a href="https://wa.me/2001023582057" target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="Whatsapp" />
   </a>
-  <a href="https://t.me/YOURUSERNAME" target="_blank">
+  <a href="https://t.me/Ahmed_" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="Telegram" />
   </a>
 </div>
+
 
 
 ###
